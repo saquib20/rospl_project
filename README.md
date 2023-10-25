@@ -1,8 +1,15 @@
-# rospl_project
+# ROSP_PROJECT
 
-A new Flutter project.
+FLUTTER PROJECT ON TRAVEL APP
 
 ## Getting Started
+
+## FEATURES
+
+• Travel Guides.
+• Bookings.
+• Easy to use.
+• Offline Usage.
 
 This project is a starting point for Flutter application that follows the
 [simple app state management
