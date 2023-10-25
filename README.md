@@ -2,14 +2,14 @@
 
 FLUTTER PROJECT ON TRAVEL APP
 
-## Getting Started
-
 ## FEATURES
 
 • Travel Guides.
 • Bookings.
 • Easy to use.
 • Offline Usage.
+
+## Getting Started
 
 This project is a starting point for Flutter application that follows the
 [simple app state management
